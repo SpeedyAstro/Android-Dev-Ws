@@ -19,13 +19,9 @@ The following **extensions** are implemented:
 * [x] Custom colors selected
 * [ ] List anything else that you did to improve the app functionality or design!
 
-## Video Walkthrough
-
 Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/dthSjIk8Ohgbox01Pj/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
