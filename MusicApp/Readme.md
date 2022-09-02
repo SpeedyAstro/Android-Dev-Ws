@@ -20,7 +20,6 @@ The following **extensions** are implemented:
 * [x] Custom colors selected
 * [ ] List anything else that you did to improve the app functionality or design!
 
-## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
