@@ -11,11 +11,12 @@ import android.widget.EditText
 import android.widget.SeekBar
 import android.widget.TextView
 import androidx.core.content.ContextCompat
+import com.google.android.material.textfield.TextInputEditText
 
 private const val TAG = "MainActivity"
     private const val INITIAL_TIP_PERCENT = 15
 class MainActivity : AppCompatActivity() {
-    private lateinit var etBaseAmount : EditText
+    private lateinit var etBaseAmount : TextInputEditText
     private lateinit var seekBarTip : SeekBar
     private lateinit var tvTipPrecent : TextView
     private lateinit var Tip : TextView
@@ -24,7 +25,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        etBaseAmount = findViewById(R.id.etBaseAmount)
+        etBaseAmount = findViewById(R.id.etEditBaseAmt)
         seekBarTip = findViewById(R.id.seekBarTip)
         tvTipPrecent = findViewById(R.id.tvTextPercent)
         Tip = findViewById(R.id.tvTipAmount)
@@ -80,7 +81,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun computeTipAndTotal() {
-        if(etBaseAmount.text.isEmpty()){
+        if(etBaseAmount.text.toString().isEmpty()){
             tvTotalTip.text = ""
             Tip.text = ""
             return
