@@ -1,10 +1,10 @@
-# Android-Dev-Ws
+# Android-Dev-Ws  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
 A Workspace for Android development logs
 
 <img src='https://media.giphy.com/media/F3VTsQ8Lm89mMudD3P/giphy.gif' title='Music App' width='' alt='Music App' /> <img width="200px" src='https://github.com/Mr-Anubhav-pandey/Android-Dev-Ws/blob/master/BMICalculator/Screenshot_20220829_001552.png' /></a>
 <img width="200px" src='https://github.com/Mr-Anubhav-pandey/Android-Dev-Ws/blob/master/hellofromAndroid/Screenshot_20220826_094142.png' /></a>
 
-
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 ## Notes
 
 Describe any challenges encountered while building the app.
