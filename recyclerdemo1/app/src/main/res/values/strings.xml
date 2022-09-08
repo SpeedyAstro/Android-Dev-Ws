@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Acids</string>
+    <string name="science">Arginine</string>
+    <string name="science1">Cysteine</string>
+    <string name="science2">Lysine</string>
+    <string name="science3">Glycine</string>
+    <string name="science4">Amino</string>
+    <string name="science5">Nitric</string>
+    <string name="science6">Acitic</string>
+    <string name="science7">Carbonate</string>
+    <string name="science8">Lystic</string>
+
+    <string name="Alantine">AL</string>
+    <string name="Cys">CY</string>
+    <string name="Amino">Am</string>
+    <string name="nitric">Ni</string>
+    <string name="Carbonate">C</string>
+    <string name="Arg">Arg</string>
+    <string name="water">Co2</string>
+    <string name="Hydro">Sil</string>
+    <string-array name="amino_Acid">
+        <item>Alanine</item>
+        <item>Cysteine</item>
+        <item>Lysine</item>
+        <item>Glycine</item>
+    </string-array>
+    <string-array name="one_letter">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+</resources>
