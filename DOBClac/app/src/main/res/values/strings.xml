@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DOBClac</string>
+    <string name="calculate_your">CALCULATE YOUR</string>
+    <string name="in_minutes_till_date">In Minutes till date</string>
+</resources>
