@@ -1,0 +1,3 @@
+An _intent_ is an object representing some action to be performed. The most common, but certainly not only, use for an intent is to launch an activity. There are two types of intents—**implicit** and **explicit**. An **explicit intent** is highly specific, where you know the exact activity to be launched, often a screen in your own app.
+
+An **implicit intent** is a bit more abstract, where you tell the system the type of action, such as opening a link, composing an email, or making a phone call, and the system is responsible for figuring out how to fulfill the request. You've probably seen both kinds of intents in action without knowing it. Generally, when showing an activity in your own app, you use an explicit intent.
